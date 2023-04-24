@@ -12,3 +12,5 @@
 <p> This section is currently being redone. If passed, will rename all the tags on <code>help</code> to be broader. </p>
 <h2>Section 5 - Redefine <code>not-help</code> </h2>
 <p> This section is less likely to be passed. If passed, will break up <code>not-help</code> to different channels under a different category. </p>
+<hr>
+<h6> &reg; AT Products LLC (2019-2023) </h6>
