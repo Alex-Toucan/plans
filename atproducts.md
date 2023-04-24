@@ -1,5 +1,5 @@
 <div align="center">
-<h1><a href="https://atproducts.xyz">atproducts.xyz</a> plans<br><br><img src="/media/longwhite.png" width="500px"><br><br></h1>
+<h1><a href="https://atproducts.xyz">atproducts.xyz</a> plans<br><br><a href="https://atproducts.xyz"><img src="/media/longwhite.png" width="500px"></a><br><br></h1>
   <h2>CodingHome Resources</h2>
   <p>This section will add more resources to resources within the CodingHome site</p>
   <h2>JavaScript Fix</h2>
