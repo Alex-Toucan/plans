@@ -5,7 +5,7 @@
   <h2>JavaScript Fix</h2>
   <a href="https://github.com/Alex-Toucan/atproducts.xyz/issues/92">View issue</a>
   <br><br>
-  <p>This section will fix the window.onload issues between the 3 main JavaScript files, <code>scroll.js</code>, <code>purecookie.js</code>, and <code>darkmode.js</code></p>
+  <p>This section will fix the <code>window.onload</code> issues between the 3 main JavaScript files, <code>scroll.js</code>, <code>purecookie.js</code>, and <code>darkmode.js</code></p>
   <hr>
   <h6> &reg; AT Products LLC (2019-2023) </h6>
 </div>
