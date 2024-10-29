@@ -19,4 +19,4 @@ There will be of course a general, but a channel where people can speak their mi
 Talking about yourself can help understand yourself better. For "confessions", there is a bot that can let people anonymously confess to things called [Confessions](https://top.gg/bot/712011923176030229). There can also be a different channel for not anonymously confessing.
 
 ## Private Tickets
-People can make tickets with only staff to discuss how they are feeling, or just anything, and we will try our best to assist them. Please, do not share anything within these tickets (the only exception being is that if we need to let know law enforcement in certain cases). This requires the [Ticket bot](https://top.gg/bot/964624470985826374).
+People can make tickets with only staff to discuss how they are feeling, or just anything, and we will try our best to assist them. Please, do not share anything within these tickets (the only exception being is that if we need to let law enforcement know in certain cases). This requires the [Ticket bot](https://top.gg/bot/964624470985826374).
