@@ -2,7 +2,7 @@
 It just so happens that a lot of developers have mental health issues, as such, we are going to make things at least 1% better.
 
 ---
-This is a collaboration project between the Royal Stack Alliance and AT Products LLC, I might take lead in the project.
+This is a collaboration project between the Royal Stack Alliance and AT Products LLC; I might take lead in the project.
 
 ## Resources
 There will be resources to assist people in mental health issues, as I'm reading a few books on such subject:
