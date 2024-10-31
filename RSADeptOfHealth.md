@@ -49,19 +49,19 @@ A safe space to seek and offer support. (Private tickets)
 ### Resources
 Articles, videos, and books on mental health.
 ### Mindfulness and Meditation
-~~Guided sessions~~ (private tickets), tips, and discussions about mindfulness practices.
+<s>Guided sessions</s> (private tickets), tips, and discussions about mindfulness practices.
 
 ## Personal Stories
 A channel for members to share their health journeys.
 
-~~## Q&A Sessions~~ (Similar to CodingHome Interviews)
-~~Host live Q&A sessions with health professionals or experienced members.~~
+<s><h2>Q&A Sessions</h2></s> (Similar to CodingHome Interviews)
+<s>Host live Q&A sessions with health professionals or experienced members.</s>
 
-~~## Event Planning~~
-~~Organize and announce events like virtual fitness classes, group meditation, or mental health workshops.~~
+<s><h2>Event Planning</h2></s>
+<s>Organize and announce events like virtual fitness classes, group meditation, or mental health workshops.</s>
 
-~~## Book Club/Recommendations~~ (just combine this to off-topic)
-~~Discuss and recommend books related to health and wellbeing.~~
+<s><h2>Book Club/Recommendations</h2></s> (just combine this to off-topic)
+<s>Discuss and recommend books related to health and wellbeing</s>
 
 ## Off-Topic/Relaxation
 Channels for hobbies, interests, or just unwinding—music, gaming, arts.
