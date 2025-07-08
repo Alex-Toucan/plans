@@ -7,4 +7,4 @@ NAP & Academy List
 * MAD- mad                                                 
 * BST - 
 * CEL -                                                                      
-New (SvS alliance)
+* New (SvS alliance)
