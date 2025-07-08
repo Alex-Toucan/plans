@@ -1,6 +1,6 @@
 **NAP RULES (INCLUDE ACADEMY):**
 
-1. NAP10: No attacking or scouting Top10 alliances, including their farm / academy (check decree).
+1. NAP10: No attacking or scouting Top10 alliances, including their farm/academy (check decree).
 2. No tile/mine hitting on Top10.
 3. No attacks on alliance banners/buildings within Top10.
 4. No attack or scouting on city and fortress during fortress battle.
@@ -10,7 +10,7 @@
 
 **Reminders:**
 
-- Avoid gathering near other alliance's hive **OR** sitting in their hive to not get attacked.
+- Avoid gathering near other alliances' hive **OR** sitting in their hive, not to get attacked.
 - Do **NOT** solo attack against powerful alliances.
 - Only rally **ONCE** to any cities, within our hive, to warn them. Further discussion will have to follow for resolution.
 
@@ -21,9 +21,9 @@
 
 (2) If you go to another NAP alliance, discussions between R5 or R4 should take place before leaving or acceptance to new alliance. 
 
-(3) Any member who makes derogatory remarks shall be attacked (After NAP vote) until an apology is made via Megaphone.
+(3) Any member who makes derogatory remarks shall be attacked (After the NAP vote) until an apology is made via Megaphone.
 
-(4) When the SH/fortress is wrongly occupied, the Alliance will not participate in next SH event. 
+(4) When the SH/fortress is wrongly occupied, the Alliance will not participate in the next SH event. 
 
 (5) When burning flags, passive parties can be regarded as wars and the flag of the initiators can be burned.
 
