@@ -4,7 +4,5 @@ NAP & Academy List
 * BAF - baf
 * KOR - KoR
 * UFO - ufo
-* MAD- mad                                                 
-* BST - 
-* CEL -                                                                      
+* MAD - mad                                                                                                                      
 * New (SvS alliance)
