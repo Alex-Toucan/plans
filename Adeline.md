@@ -1,12 +1,13 @@
 **Moving toward more:**
-- ❔ Initiating outside school hours
-- ✅ Initiating in person — rabbit, assignments, paper throw
+- ✅ Initiating outside school hours
+- ✅ Initiating in person
 - ❌ Bringing up plans with you
+- ❔ Bringing up her own independent plans
 - ❌ Reasons to be around you outside 1st period
 - ❔ Flirty moments returning
 - ❔ Mentioning you positively to others
 - ❌ Suggesting hanging out with herself
-- ❔ Small physical things — paper throw is a start
+- ❔ Small physical things
 
 **Settling into just friends:**
 - ❌ Surface-level conversations
