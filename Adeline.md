@@ -2,12 +2,12 @@
 - ✅ Initiating outside school hours
 - ✅ Initiating in person
 - ❌ Bringing up plans with you
-- ❔ Bringing up her own independent plans
-- ❌ Reasons to be around you outside 1st period
-- ❔ Flirty moments returning
+- ✅ Bringing up her own independent plans
+- ❔ Reasons to be around you outside 1st period
+- ✅ Flirty moments returning
 - ❔ Mentioning you positively to others
 - ❌ Suggesting hanging out with herself
-- ❔ Small physical things
+- ✅ Small physical things
 
 **Settling into just friends:**
 - ❔️ Surface-level conversations
@@ -16,5 +16,3 @@
 - ❌ Treating you like everyone else
 - ❌ Streak maintenance only
 - ❌ No moments that feel specifically yours
-
-Recheck after prom — April 15.
