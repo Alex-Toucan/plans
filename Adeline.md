@@ -10,7 +10,7 @@
 - ✅ Small physical things
 
 **Settling into just friends:**
-- ❔️ Surface-level conversations
+- ❌️ Surface-level conversations
 - ❌ Mentioning other guys
 - ❌ Warmth disappearing
 - ❌ Treating you like everyone else
