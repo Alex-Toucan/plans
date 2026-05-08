@@ -16,3 +16,5 @@
 - ❌ Treating you like everyone else
 - ❌ Streak maintenance only
 - ❌ No moments that feel specifically yours
+
+**Emotional Withdraw Period (Self): After 5/16/26**
