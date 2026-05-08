@@ -1,13 +1,13 @@
 **Moving toward more:**
-- ✅ Initiating outside school hours
-- ✅ Initiating in person
+- ❔ Initiating outside school hours
+- ❔ Initiating in person
 - ❌ Bringing up plans with you
-- ✅ Bringing up her own independent plans
+- ❔ Bringing up her own independent plans
 - ❔ Reasons to be around you outside 1st period
-- ✅ Flirty moments returning
+- ❔ Flirty moments returning
 - ❔ Mentioning you positively to others
 - ❌ Suggesting hanging out with herself
-- ✅ Small physical things
+- ❔ Small physical things
 
 **Settling into just friends:**
 - ❌️ Surface-level conversations
