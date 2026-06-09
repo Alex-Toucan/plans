@@ -8,7 +8,7 @@ Finally, Dev is a man-child, seriously. He claims he's a moderator and administr
 
 In my opinion, and only my opinion, Dev is not made for you. I somehow care about you more than him, and that says a lot. I really wish you and Dev would break up soon, because he is a piece of shit, and he is only going to damage you more. I know you say you're fine with it, but are you?
 
-I do not mean to sound like a hypocrite, but I treat you better than Dev, I care about you better than Dev, and I overall treat you more like a fucking human being than Dev.
+I do not mean to sound like a hypocrite, but I treat you better than Dev, I care about you better than Dev, and I overall treat you more like a fucking human being than Dev. Get yourself a better man, please. I know it is his first relationship, but he does not sound ready for it.
 
 Again, I do not intend to change our friendship. Make the right choice, Abby. Being a people pleaser is hurting you.
 
